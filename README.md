@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/DS for Smart Manufacturing and Social Good
 - 🌱 I’m currently working on research projects to use AI to improve AAC communicaiton and e-learning.
 - 🙋‍♂️ I’m looking to collaborate on research projects related to AI and Inclusion 👩‍🦽🧑‍🦽🧑‍🦯🚶
-- ✨ I'm the founder of Inclurban Limited (UK), with the aim of using AI to solve acessibility issues.
+- ✨ I'm the founder of AI4Access, with the aim of using AI to solve acessibility issues.
 - 👉 Reach me by email c.ding AT soton.ac.uk
 
 <!---
