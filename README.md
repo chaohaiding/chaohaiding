@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on research projects to use AI to improve AAC communicaiton and e-learning.
 - 🙋‍♂️ I’m looking to collaborate on research projects related to AI and Inclusion 👩‍🦽🧑‍🦽🧑‍🦯🚶
 - ✨ I'm the founder of AI4Access, with the aim of using AI to solve acessibility issues.
-- 👉 Reach me by email c.ding AT soton.ac.uk
+- 👉 Reach me by email c.ding AT ai4access.com
 
 <!---
 chaohaiding/chaohaiding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
